@@ -1,3 +1,3 @@
-let = produto
+let nome= "Edson" ;
 
-console.log("produto");
+console.log(nome);
